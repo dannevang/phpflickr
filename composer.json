@@ -1,16 +1,16 @@
 {
-	"name": "samwilson/phpflickr",
+	"name": "dannevang/phpflickr",
 	"description": "A PHP wrapper for the Flickr API, including Oauth.",
 	"type": "library",
 	"license": "GPL-3.0+",
 	"autoload": {
 		"psr-4": {
-			"Samwilson\\PhpFlickr\\": "src/"
+			"dannevang\\PhpFlickr\\": "src/"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Samwilson\\PhpFlickr\\Tests\\": "tests/"
+			"dannevang\\PhpFlickr\\Tests\\": "tests/"
 		}
 	},
 	"require": {
