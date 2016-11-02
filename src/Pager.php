@@ -1,5 +1,5 @@
 <?php
-namespace Samwilson\PhpFlickr;
+namespace Dannevang\PhpFlickr;
 
 class Pager
 {
