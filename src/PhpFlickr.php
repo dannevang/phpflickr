@@ -18,7 +18,7 @@
  *
  */
 
-namespace Samwilson\PhpFlickr;
+namespace dannevang\PhpFlickr;
 
 class PhpFlickr
 {
